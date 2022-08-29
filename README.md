@@ -56,4 +56,4 @@ If you have recently updated, please read the [changelog](https://github.com/mui
 
 ## Roadmap
 
-The future plans and high priority features and enhancements can be found in the [roadmap](https://mui.com/discover-more/roadmap/) file.
+The future plans and high priority features and enhancements can be found in the [roadmap](https://mui.com/discover-more/roadmap/) file
